@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bangkit Stories</string>
+    <string name="welcome_login">L  O  G  I  N</string>
+    <string name="login_signin">Sign In</string>
+    <string name="login_signup">Sign Up</string>
+    <string name="sign_in">L  O  G  I  N</string>
+    <string name="message_signin">Enter Your Account </string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="decision">By clicking Sign up, you agree to provide the requested data and information and have read and agreed to the Terms and Conditions and Privacy Policy.</string>
+    <string name="profile">Profile</string>
+    <string name="cam">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="save">Save</string>
+    <string name="preview">Preview</string>
+    <string name="description">Description</string>
+    <string name="logout">Logout</string>
+    <string name="failed">Upload Failed</string>
+    <string name="success">Upload Success</string>
+</resources>
